@@ -1,0 +1,1 @@
+docker run -ti -v ~/Users/admin/Desktop/reactnative:/app app:latest expo init app
